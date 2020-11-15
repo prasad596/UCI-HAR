@@ -10,3 +10,4 @@ This repository contains the R code and  files for the assingment in the "Gettin
 
 `HAR_summary.txt` contains the output of the 5th step which consists of the summarized, tidy data that can be used to perform further analysis.
 
+
